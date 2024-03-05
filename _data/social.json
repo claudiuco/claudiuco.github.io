@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/thegoodroot",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Email",
+    "link": "mailto:personal@claunix.com ",
+    "image": "images/social/email.svg"
+  },
+  {
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/claudiuco/",
+    "image": "images/social/facebook.svg"
+  }
+]
