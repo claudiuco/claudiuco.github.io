@@ -20,7 +20,7 @@ Throughout my carreer, I have gained valuable insights into managing a large var
 2023 - present | remote, Spain
 ```
 __NTT DATA Spain__, Infrastructure Security Specialist
-> - Working as a Server/Infrastructure Security Specialist since november 2023, my main responsibilies as a sole member of the team include:
+> Working as a Server/Infrastructure Security Specialist since november 2023, my main responsibilies as a sole member of the team include:
 >> - being the second level of escalation in matters of Identity and Access Management (onboarding, changing, and offboarding user accounts on the joiner-mover-leaver model), server security issues - vulnerability and patch management, and responding to various inquires received from SOC L1 team related with these topics.
 >> - assisting the Incident Response team with server security expertise - mostly related with various inquiries received from Application teams (assesing, aproving and implementing service accounts for various applications and maintaining them within the AD and GPOs under the correct OUs).
 >> - assessing, documenting and verifying the migration of NTT DATA's infrastructure to Microsoft Tier Model, helping the system administration team with decisions regarding installed software, user management, access controls, implementing the principle of least privilege, segregation of duties etc. 
