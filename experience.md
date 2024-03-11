@@ -25,8 +25,8 @@ __NTT DATA Spain__, Infrastructure Security Specialist
 >> - assisting the Incident Response team with server security expertise - mostly related with various inquiries received from Application teams (assessing, approving and implementing service accounts for various applications and maintaining their accesses within the AD and GPOs under the correct OUs according to the company's policies);
 >> - assessing, documenting and verifying the migration of NTT DATA’s infrastructure to Microsoft Tier Model, helping the system administration team with decisions regarding installed software, user management, access controls, implementing the principle of least privilege, segregation of duties etc.;
 >> - creating policies and procedures for daily tasks, automating using Python and Powershell some of the most time consuming tasks.
-> Another important part of my day-to-day job is participating in security audits from a system security perspective with focus on the server side (which consist mainly in Windows Servers).
-> Last but not least, providing CISO and stakeholders regular reports with the monthly situation in matters of obsolescence - mainly operating systems and applications versions - CrowdStrike cover on NTT infrastructure, eventual gaps in SOC monitoring etc. 
+> - Another important part of my day-to-day job is participating in security audits from a system security perspective with focus on the server side (which consist mainly in Windows Servers).
+> - Last but not least, providing CISO and stakeholders regular reports with the monthly situation in matters of obsolescence - mainly operating systems and applications versions - CrowdStrike cover on NTT infrastructure, eventual gaps in SOC monitoring etc. 
 
 <br>
 
