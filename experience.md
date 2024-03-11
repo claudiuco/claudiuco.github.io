@@ -8,9 +8,9 @@ bodyClass: page-about
 ## Summary
 Hello world! 
 
-Driven and experienced security professional with a strong passion for expanding knowledge and a relentless drive for success. With over seven years of practical experience in application and infrastructure administration and more than two years of hands-on experience in security operations, my primary objective is to leverage my cross-disciplinary skills to contribute in the realm of incident response, threat detection and malware analysis. 
+Driven and experienced security professional with a strong passion for expanding knowledge and a relentless drive for success. With over seven years of practical experience in application and infrastructure administration and more than two years of hands-on experience in security operations, my primary objective is to leverage my cross-disciplinary skills to contribute in the realm of incident response, threat detection and malware analysis.
 
-Throughout my carreer, I have gained valuable insights into managing a large variety of infrstractures, including both on-prem and cloud based solutions. In my spare time, I enjoy sharpening my cybersecurity skills, gaining relevant certifications, participating in CTF exercises, coding and publishing in Github various useful tools. 
+Throughout my career, I have gained valuable insights into managing a large variety of infrastructures, including both on-prem and cloud based solutions. In my spare time, I enjoy sharpening my cybersecurity skills, gaining relevant certifications, participating in CTF exercises, coding and publishing in Github various useful tools.
 
 ![Working](/images/pixeltrue-support-1.svg)
 
@@ -20,12 +20,13 @@ Throughout my carreer, I have gained valuable insights into managing a large var
 2023 - present | remote, Spain
 ```
 __NTT DATA Spain__, Infrastructure Security Specialist
-> Working as a Server/Infrastructure Security Specialist since november 2023, my main responsibilies as a sole member of the team include:
->> - being the second level of escalation in matters of Identity and Access Management (onboarding, changing, and offboarding user accounts on the joiner-mover-leaver model), server security issues - vulnerability and patch management, and responding to various inquires received from SOC L1 team related with these topics.
->> - assisting the Incident Response team with server security expertise - mostly related with various inquiries received from Application teams (assesing, aproving and implementing service accounts for various applications and maintaining them within the AD and GPOs under the correct OUs).
->> - assessing, documenting and verifying the migration of NTT DATA's infrastructure to Microsoft Tier Model, helping the system administration team with decisions regarding installed software, user management, access controls, implementing the principle of least privilege, segregation of duties etc. 
->> - Another important part of my day-to-day job is participating in security audits from a system security perspective with focus on the server side (which consist mainly in Windows Servers.)
->> - Last but not least, providing CISO and stakeholders regular reports with the monthly situation in matters of obsolence - mainly operating systems and applications versions - CrowdStrike cover on NTT infrastructure, eventual gaps in SOC monitoring etc.
+> Working as a Server/Infrastructure Security Specialist since November 2023, my main responsibilities as a sole member of the team include:
+>> - being the second level of escalation in matters of Identity and Access Management (on-boarding, changing, and off-boarding user accounts on the joiner-mover-leaver model), server security issues - vulnerability and patch management, and responding to various inquires received from SOC L1 team related with these topics;
+>> - assisting the Incident Response team with server security expertise - mostly related with various inquiries received from Application teams (assessing, approving and implementing service accounts for various applications and maintaining their accesses within the AD and GPOs under the correct OUs according to the company's policies);
+>> - assessing, documenting and verifying the migration of NTT DATA’s infrastructure to Microsoft Tier Model, helping the system administration team with decisions regarding installed software, user management, access controls, implementing the principle of least privilege, segregation of duties etc.;
+>> - creating policies and procedures for daily tasks, automating using Python and Powershell some of the most time consuming tasks.
+> Another important part of my day-to-day job is participating in security audits from a system security perspective with focus on the server side (which consist mainly in Windows Servers).
+> Last but not least, providing CISO and stakeholders regular reports with the monthly situation in matters of obsolescence - mainly operating systems and applications versions - CrowdStrike cover on NTT infrastructure, eventual gaps in SOC monitoring etc. 
 
 <br>
 
