@@ -11,6 +11,7 @@ show_call_box: true
 # Welcome to Claudiu's Virtual Cave !
 
 With over seven years of practical experience in application and infrastructure administration and more than two years of hands-on experience in security operations related jobs, my primary objective is to leverage my cross-disciplinary skills to contribute in the realm of incident response, threat detection and malware analysis.
+
 Last but not least, I'm a true believer in the benefits of remote work, actively seeking roles that embody flexibility, productivity, and autonomy. Eager to contribute my skills to environments that align with these values and support a fully remote work setup.
 
 
